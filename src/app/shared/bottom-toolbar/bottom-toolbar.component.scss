@@ -6,6 +6,12 @@
     justify-content: center;
     height: 100%;
   }
+  ion-header{
+    height: 45px;
+  }
+  ion-tab-bar{
+    height: 60px;
+  }
   ion-content{
-    height: calc(100vh - 93px);
+    height: calc(100vh - 105px);
   }
